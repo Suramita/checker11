@@ -1,1 +1,1 @@
-print("helsalow wrld")
+print("helsaalow wrld")
